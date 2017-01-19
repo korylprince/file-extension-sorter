@@ -1,0 +1,7 @@
+Usage of file-extension-sorter:
+  -in string
+    	Input directory
+  -out string
+    	Output directory
+  -workers int
+    	Number of hash workers. More is not always better (default 10)
